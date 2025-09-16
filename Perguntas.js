@@ -42,24 +42,24 @@ criaCartao(
 
 criaCartao(
     'Categoria',
-    '',
-    ''
+    'Qual é o animal terrestre mais rápido do mundo?',
+    'Guepardo'
 )    
 
 criaCartao(
     'Categoria',
-    '',
-    ''
+    'Quem foi o responsável pela teoria da evolução das espécies?',
+    'Charles Darwin'
 )    
 
 criaCartao(
     'Categoria',
-    '',
-    ''
+    'Qual é o maior continente do planeta terra?',
+    'Ásia'
 )    
 
 criaCartao(
     'Categoria',
-    '',
-    ''
+    'Qual é a maior ilha do mundo?',
+    'Groenlândia'
 )    

@@ -5,55 +5,55 @@ criaCartao(
 )    
 
 criaCartao(
-    'Categoria',
+    'Conhecimentos Gerais',
     'Qual é o menor país do mundo?',
     'Vaticano'
 )   
 
 criaCartao(
-    'Categoria',
+    'Conhecimentos Gerais',
     'Qual é a capital da Finlândia?',
     'Helsinque'
 )    
 
 criaCartao(
-    'Categoria',
+    'Conhecimentos Gerais',
     'Qual é o carro mais caro do mundo?',
     'Rolls-Royce La Rose Noire Droptail'
 )   
 
 criaCartao(
-    'Categoria',
+    'Conhecimentos Gerais',
     'Qual é o maior planeta do sistema solar?',
     'Júpiter'
 )  
 
 criaCartao(
-    'Categoria',
+    'Conhecimentos Gerais',
     'Qual é o maior trator do mundo?',
     'Big Bud 747'
 )   
 
 criaCartao(
-    'Categoria',
+    'Conhecimentos Gerais',
     'Em que ano o homem pisou na Lua pela primeira vez?',
     '20 de julho de 1969'
 )    
 
 criaCartao(
-    'Categoria',
+    'Conhecimentos Gerais',
     'Qual é o animal terrestre mais rápido do mundo?',
     'Guepardo'
 )    
 
 criaCartao(
-    'Categoria',
+    'Conhecimentos Gerais',
     'Quem foi o responsável pela teoria da evolução das espécies?',
     'Charles Darwin'
 )    
 
 criaCartao(
-    'Categoria',
+    'Conhecimentos Gerais',
     'Qual é o maior continente do planeta terra?',
     'Ásia'
 )    

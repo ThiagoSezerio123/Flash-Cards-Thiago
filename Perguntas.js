@@ -59,7 +59,7 @@ criaCartao(
 )    
 
 criaCartao(
-    'Categoria',
+    'Conhecimentos Gerais',
     'Qual é a maior ilha do mundo?',
     'Groenlândia'
 )    

@@ -1,7 +1,7 @@
 criaCartao(
-    'Categoria',
-    'pergunta',
-    'resposta'
+    'Conhecimentos Gerais',
+    'Quem pintou "A Última Ceia"?',
+    'Leonardo da Vinci'
 )    
 
 criaCartao(
